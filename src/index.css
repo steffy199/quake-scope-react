@@ -22,7 +22,6 @@ a:hover {
   color: #535bf2;
 }
 
-/* Ensure the page and root use full screen dimensions */
 html, body, #root {
   width: 100%;
   height: 100%;
@@ -30,7 +29,6 @@ html, body, #root {
   padding: 0;
 }
 
-/* Remove center alignment of root */
 body {
   min-width: 320px;
   min-height: 100vh;
