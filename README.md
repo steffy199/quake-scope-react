@@ -22,6 +22,7 @@ Data Fetching: Retrieves earthquake data from the USGS CSV feed.
 Charting: Visualizes earthquake data using a scatter plot.
 
 📦 Technologies and dependencies Used:
+
 React: JavaScript library for building user interfaces.
 PapaParse: CSV parsing library.
 React Bootstrap: UI components for responsive design.
