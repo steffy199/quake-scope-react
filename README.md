@@ -48,7 +48,7 @@ npm install
 Start the development server:
 npm run dev
 
-AI Tools in Development
+AI Tools in Development:
 In the development of QuakeScope, GitHub Copilot was employed as an AI pair programmer to enhance productivity, improve code quality, and streamline the development process. Here's how Copilot was integrated:
 1. Copilot provided real-time code suggestions, ranging from single lines to entire functions, based on the context of the code being written. This feature accelerated the development process by reducing manual coding efforts. 
 2. Copilot assisted in identifying and rectifying bugs by suggesting appropriate code modifications through copilot chat.
