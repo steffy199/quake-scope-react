@@ -1,0 +1,32 @@
+.dashboard-container {
+  display: flex;
+  gap: 1rem;
+  flex-direction: row;
+}
+
+.dashboard-panel {
+  width:50%;
+  background-color: #fff;
+  overflow: auto;
+  box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+  border: none;
+}
+
+.chart-panel {
+  background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
+}
+
+.card-header{
+  padding: 10px;;
+}
+
+@media (max-width: 800px) {
+  .dashboard-panel{
+    width:100%;
+  }
+  .dashboard-container {
+    flex-direction: column;
+  flex-wrap: wrap;
+
+  }
+}

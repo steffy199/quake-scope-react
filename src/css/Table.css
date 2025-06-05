@@ -1,0 +1,21 @@
+/* Wider columns for time and location */
+.col-time {
+  min-width: 180px;
+  white-space: nowrap;
+}
+
+.col-location {
+  min-width: 250px;
+}
+
+/* Apply a cleaner style to table rows */
+.table-row-custom {
+  font-size: 0.95rem;
+  padding: 10px;
+  transition: background-color 0.2s ease;
+}
+
+.table-row-custom:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
