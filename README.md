@@ -1,6 +1,7 @@
 QuakeScope — Earthquake Dashboard
 
-Overview
+Overview:
+
 QuakeScope is a React-based dashboard designed to visualize earthquake data sourced from the USGS Earthquake Feed. The application features:
 
 Scatter Plot: A dynamic chart displaying earthquake magnitudes and depths.
