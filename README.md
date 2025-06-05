@@ -23,14 +23,14 @@ Charting: Visualizes earthquake data using a scatter plot.
 
 📦 Technologies and dependencies Used:
 
-React: JavaScript library for building user interfaces.
-PapaParse: CSV parsing library.
-React Bootstrap: UI components for responsive design.
-Bootstrap: Utility-first CSS framework for styling.
-recharts: Charting library used to create the interactive scatter plot visualizing earthquake data.
-zustand: Lightweight state management library used to share state (e.g., selected earthquake record) between components like the chart and table.
+React: JavaScript library for building user interfaces. 
+PapaParse: CSV parsing library. 
+React Bootstrap: UI components for responsive design. 
+Bootstrap: Utility-first CSS framework for styling. 
+recharts: Charting library used to create the interactive scatter plot visualizing earthquake data. 
+zustand: Lightweight state management library used to share state (e.g., selected earthquake record) between components like the chart and table. 
 
-📱 Responsive Design
+📱 Responsive Design: 
 The application employs a responsive layout to ensure usability across various devices. The layout adjusts based on the screen size:
 
 📥 Data Handling
