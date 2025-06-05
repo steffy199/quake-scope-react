@@ -30,26 +30,20 @@ zustand: Lightweight state management library used to share state (e.g., selecte
 📱 Responsive Design
 The application employs a responsive layout to ensure usability across various devices. The layout adjusts based on the screen size:
 
-Large Screens: Displays the chart and table side by side.
-
-Medium and Small Screens: Stacks the chart and table vertically for better readability.
-
-This responsiveness is achieved using a combination of React Bootstrap and Tailwind CSS utilities.
-
 📥 Data Handling
 The earthquake data is fetched from the USGS Earthquake Feed in CSV format. The application uses PapaParse to parse the CSV data and filter out records with missing or incomplete information.
 
 
 🛠️ Setup and Installation
+
 Clone the repository:
+git clone https://github.com/steffy199/quake-scope-react.git
 
-git clone https://github.com/yourusername/quakescope.git
 Navigate into the project directory:
+cd quake-scope-react
 
-cd quakescope
 Install dependencies:
-
 npm install
-Start the development server:
 
+Start the development server:
 npm run dev
